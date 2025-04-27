@@ -10,6 +10,5 @@ public class Main {
 
         System.out.println("\n"+koncert); //to jest to samo co koncert.toString (metoda .toString jest zawsze nawet gdy jej nie napiszemy i domyslnie zwraca numer referencyjny)
 
-
     }
 }
