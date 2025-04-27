@@ -8,7 +8,7 @@ public class Main {
 
         Wydarzenie teatr = new Wydarzenie("Hamlet", 85.0);
 
-        System.out.println("\n"+koncert); //to jest to samo co koncert.toString (toString jest zawsze nawet gdy jej nie napiszemy i domyslnie zwraca numer referencyjny)
+        System.out.println("\n"+koncert); //to jest to samo co koncert.toString (metoda .toString jest zawsze nawet gdy jej nie napiszemy i domyslnie zwraca numer referencyjny)
 
 
     }
